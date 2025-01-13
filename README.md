@@ -1,4 +1,4 @@
-# **EdgeNet** 🔍
+# **EdgeNet**
 A robust edge detection and line-fitting pipeline designed for precision in image processing tasks. By combining custom convolution kernels for edge enhancement and the RANSAC algorithm for line detection, it delivers accurate and reliable results in applications such as computer vision, object detection, and feature extraction.
 
 ## **Visual Results**
